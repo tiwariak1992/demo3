@@ -1,2 +1,2 @@
 this file belongs to amit
-
+this is a simple text file
